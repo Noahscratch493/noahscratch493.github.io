@@ -1,7 +1,7 @@
 {
   "name": "15OS",
   "short_name": "15OS",
-  "start_url": "/",
+  "start_url": "/os.html",
   "display": "standalone",
   "background_color": "#2b2b2b",
   "theme_color": "#2b2b2b",
